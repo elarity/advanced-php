@@ -10,5 +10,5 @@
 
 公众号，以前的所有文章都一次性汇聚到公众号里了：
 
-![微信公众号](http://static.ti-node.com/wx-service-ct.jpg)
+![微信公众号](http://static.ti-node.com/new-wx-qrcode.jpg)
 
